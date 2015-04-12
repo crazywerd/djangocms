@@ -49,3 +49,4 @@ Pillow>=2
 django-filer==0.9.8
 cmsplugin-filer==0.10.1
 django-reversion==1.8
+djangocms_text_ckeditor==2.4.3
